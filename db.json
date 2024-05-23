@@ -1,0 +1,46 @@
+{
+    "direcciones": [
+        {
+            "id": 1,
+            "plaza": "Galerías Atizapan",
+            "telefono": 5550773270,
+            "ubicacion": "https://maps.app.goo.gl/giCEUpt7uRt9adt5A"
+        },
+        {
+            "id": 2,
+            "plaza": "Paseo Interlomas",
+            "telefono": 5552906135,
+            "ubicacion": "https://maps.app.goo.gl/bKNXu5uS9hUikndb9"
+        },
+        {
+            "id": 4,
+            "plaza": "Parque Delta",
+            "telefono": 5553956990,
+            "ubicacion": "https://maps.app.goo.gl/r3pDpbKjCvaQv1KF7"
+        },
+        {
+            "id": 5,
+            "plaza": "Portal San Ángel",
+            "telefono": 5521244400,
+            "ubicacion": "https://maps.app.goo.gl/LNBPm5sSXCBt6MKj8"
+        },
+        {
+            "id": 6,
+            "plaza": "Centro Comercial Santa Fe",
+            "telefono": 5521674040,
+            "ubicacion": "https://maps.app.goo.gl/6kwuAZgq6cnLcPBr6"
+        },
+        {
+            "id": 7,
+            "plaza": "Plaza Toreo",
+            "telefono": 5591555536,
+            "ubicacion": "https://maps.app.goo.gl/PfZrARmvnJzSKDYw5"
+        },
+        {
+            "id": 8,
+            "plaza": "Plaza Mítikah",
+            "telefono": 5552043487,
+            "ubicacion": "https://maps.app.goo.gl/NEpcVVdm6DivDMra8"
+        }
+    ]
+}
